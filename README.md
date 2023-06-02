@@ -2,12 +2,8 @@
 <h3 align="center">FullStack Developer</h3>
 
 # 💫 About Me:
-
 - 🌱 I’m currently learning **soyHenry bootcamp**
-
-- 📫 How to reach me **brunoffoster22@gmail.com**
 <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-francisco-foster-a52321238) 
