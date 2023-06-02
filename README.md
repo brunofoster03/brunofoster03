@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bruno Foster</h1>
-<h3 align="center">a FullStack Developer</h3>
+<h1 align="center">Hi 👋, I'm <a href='https://www.linkedin.com/in/bruno-francisco-foster-a52321238/'>Bruno Foster</a></h1>
+<h3 align="center">FullStack Developer</h3>
 
 - 🌱 I’m currently learning **soyHenry bootcamp**
 
