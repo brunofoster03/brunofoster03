@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href='https://www.linkedin.com/in/bruno-francisco-foster-a52321238/' target='_blank'>Bruno Foster</a></h1>
+<h1 align="center">Hi 👋, I'm <a href='https://www.linkedin.com/in/bruno-francisco-foster-a52321238/' target='_blank' rel='noopener'>Bruno Foster</a></h1>
 <h3 align="center">FullStack Developer</h3>
 
 - 🌱 I’m currently learning **soyHenry bootcamp**
